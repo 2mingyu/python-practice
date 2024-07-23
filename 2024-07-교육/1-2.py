@@ -1,0 +1,1 @@
+print("knowledge is more important than Imagination")
